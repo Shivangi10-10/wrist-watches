@@ -48,10 +48,6 @@ Check out the live site: [Wrist Watch Showcase](https://shivangi10-10.github.io/
   <a href="https://shivangi-ivory.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shivangi10-10&color=blueviolet" alt="Profile Views">
-</p>
-
 ---
 
 <p align="center">
