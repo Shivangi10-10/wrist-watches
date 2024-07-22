@@ -2,9 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Timeless+Elegance;Wrist+Watch+Showcase;By+Shivangi+Suyash&center=true&size=30">
 </h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKQkN1tRWwXYM0g/giphy.gif" width="500">
-</p>
 
 <h2 align="center">A stunning showcase of luxury timepieces ⌚</h2>
 
@@ -26,14 +23,11 @@ An immersive web experience dedicated to the art of horology, featuring:
 ## 🏆 Key Features
 
 - ⚡ Smooth scrolling and parallax effects
-- 🌓 Dynamic day/night mode toggle
-- 🔍 Zoom-in functionality for detailed watch viewing
-- 📱 Fully responsive design for all devices
 
 ## 📸 Preview
 
 <p align="center">
-  <img src="path_to_your_screenshot.png" alt="Website Preview" width="600">
+  <img src="https://github.com/user-attachments/assets/c3895039-110e-45a9-bf17-4254ebcc6ee3" alt="Website Preview" width="600">
 </p>
 
 ## 🚀 Getting Started
@@ -44,7 +38,7 @@ An immersive web experience dedicated to the art of horology, featuring:
 
 ## 🔗 Live Demo
 
-Check out the live site: [Wrist Watch Showcase](your_live_demo_link)
+Check out the live site: [Wrist Watch Showcase](https://shivangi10-10.github.io/wrist-watches/)
 
 ## 📫 Connect With Me
 
